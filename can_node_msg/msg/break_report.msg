@@ -1,0 +1,7 @@
+Header header
+uint32 speed
+uint32 aeb_active
+uint32 aeb_not_active
+uint32 acc_not_avaiable
+uint32 aeb_break_active
+uint32 break_applied

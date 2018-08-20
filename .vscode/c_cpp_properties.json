@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/autoware/l2_ws/devel/include",
+                "/home/autoware/Autoware/ros/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/autoware/l2_ws/src/can_control_node/include",
+                "/home/autoware/l2_ws/src/lane_detector/include",
+                "/home/autoware/l2_ws/src/twist_controller/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

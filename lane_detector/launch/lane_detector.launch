@@ -1,0 +1,7 @@
+<launch>
+
+        <!-- <include file="$(find pointgrey_drivers)/scripts/grasshopper3.launch"/> -->
+
+        <node pkg="lane_detector" type="lane_detector_node" name="lane_detector_node" output="screen"/>
+        <!-- <include file="$(find twist_controller)/launch/dbw.launch"/> -->
+</launch>

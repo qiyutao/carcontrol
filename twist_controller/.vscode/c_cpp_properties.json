@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/autoware/core_code/can_ws/devel/include",
+        "/opt/ros/kinetic/include",
+        "/home/autoware/core_code/can_ws/src/can_control/can_control_node/include",
+        "/home/autoware/core_code/can_ws/src/can_control/serial/include",
+        "/home/autoware/core_code/can_ws/src/can_control/twist_controller/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}
